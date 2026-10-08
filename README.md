@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-nunes-822180274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=leodevpro&style=for-the-badge&color=blueviolet" alt="profile views">
 </p>
 
 ---
@@ -35,9 +34,8 @@
 
 **Ferramentas de IA:** Cursor · Antigravity · Lovable · Claude · ChatGPT
 
-### 📈 Atividade
+### 📈 Linguagens
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leodevpro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodevpro&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
